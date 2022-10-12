@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    display: inline;
+    background-color: #FFF7E9;
+}
+h1 {
+    color: #2C3333;
+    text-decoration: dotted;
+    font-size: 75px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+a {
+    text-decoration: none;
+    color: #2C3333;
+}
+.container {
+    text-align: center;
+}
+
+.tytanic {
+    height: 200px;
+    width: 200px;
+    background-color: #FFD372;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto;
+}
+.joker {
+    height: 200px;
+    width: 200px;
+    background-color: #A7FFE4;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto;
+}
+.cars {
+    height: 200px;
+    width: 200px;
+    background-color: #F07DEA;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto;
+}
+.fa-i-fu {
+    height: 200px;
+    width: 200px;
+    background-color: #A084CA;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto;
+}
+.magic {
+    height: 200px;
+    width: 200px;
+    background-color: #BDF2D5;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto;
+}
