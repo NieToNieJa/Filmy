@@ -28,7 +28,7 @@ a {
     border-style: solid;
     border-radius: 5px;
     display: inline-block;
-    margin: auto;
+    margin-bottom: 4px;
 }
 .joker {
     height: 200px;
@@ -38,7 +38,7 @@ a {
     border-style: solid;
     border-radius: 5px;
     display: inline-block;
-    margin: auto;
+    margin-bottom: 4px;
 }
 .cars {
     height: 200px;
@@ -48,7 +48,7 @@ a {
     border-style: solid;
     border-radius: 5px;
     display: inline-block;
-    margin: auto;
+    margin-bottom: 4px;
 }
 .fa-i-fu {
     height: 200px;
@@ -58,7 +58,7 @@ a {
     border-style: solid;
     border-radius: 5px;
     display: inline-block;
-    margin: auto;
+    margin-bottom: 4px;
 }
 .magic {
     height: 200px;
@@ -68,5 +68,5 @@ a {
     border-style: solid;
     border-radius: 5px;
     display: inline-block;
-    margin: auto;
+    margin-bottom: 4px;
 }
